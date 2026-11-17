@@ -1,0 +1,18 @@
+{"id": 1, "q": "How do I use formatted string literals?", "anchors": ["inputoutput.html#formatted-string-literals"]}
+{"id": 2, "q": "What is a list comprehension?", "anchors": ["datastructures.html#list-comprehensions"]}
+{"id": 3, "q": "How do I handle exceptions with try and except?", "anchors": ["errors.html#handling-exceptions"]}
+{"id": 4, "q": "What are default argument values?", "anchors": ["controlflow.html#default-argument-values"]}
+{"id": 5, "q": "What are keyword arguments?", "anchors": ["controlflow.html#keyword-arguments"]}
+{"id": 6, "q": "What methods do file objects have?", "anchors": ["inputoutput.html#methods-of-file-objects"]}
+{"id": 7, "q": "How do I read and write files?", "anchors": ["inputoutput.html#reading-and-writing-files"]}
+{"id": 8, "q": "How do I save structured data with json?", "anchors": ["inputoutput.html#saving-structured-data-with-json"]}
+{"id": 9, "q": "What is the syntax of a class definition?", "anchors": ["classes.html#class-definition-syntax"]}
+{"id": 10, "q": "What are class objects?", "anchors": ["classes.html#class-objects"]}
+{"id": 11, "q": "How does inheritance work?", "anchors": ["classes.html#inheritance"]}
+{"id": 12, "q": "What is a generator?", "anchors": ["classes.html#generators"]}
+{"id": 13, "q": "How do I raise an exception?", "anchors": ["errors.html#raising-exceptions"]}
+{"id": 14, "q": "What are tuples and sequences?", "anchors": ["datastructures.html#tuples-and-sequences"]}
+{"id": 15, "q": "How do dictionaries work?", "anchors": ["datastructures.html#dictionaries"]}
+{"id": 16, "q": "How does the range function work?", "anchors": ["controlflow.html#the-range-function"]}
+{"id": 17, "q": "What are lambda expressions?", "anchors": ["controlflow.html#lambda-expressions"]}
+{"id": 18, "q": "How do I import a module?", "anchors": ["modules.html#modules"]}
